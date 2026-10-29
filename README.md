@@ -3,4 +3,4 @@
 ### Einführung QGIS
 ![enter image description here](https://github.com/JoonaLungwitz/GIS/blob/main/MSS_2025.png?raw=true)
 ### Datenklassifikation
-<object data="UE_2_Datenklssifikation.pdf" width="100%" height="600px">
+[UE 2 – Datenklassifikation als PDF anzeigen](./UE_2_Datenklssifikation.pdf)
